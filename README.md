@@ -1,5 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=fajarmuhamad616&style=flat-square&label=Viewer&color=141439" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fajarmuhamad616&show_icons=true&theme=outrun&show_icons=true&include_all_commits=true&count_private=true" alt="stats" />
 
 
